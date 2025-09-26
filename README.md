@@ -31,6 +31,26 @@ gaming hours, avoiding overwork, etc.)
 
 ------------------------------------------------------------------------
 
+
+------------------------------------------------------------------------
+
+## 🛠️ Add Personal Telegram Bot
+
+-   Create a personal telegram bot from BotFather name as it pleases you
+-   Get Bot Token and Chat_ID of your Telegram bot
+  
+-   STEPS FOR CREATING BOT :
+      1.Open Telegram and search for BotFather.
+      2.Send command: /newbot.
+      3.Give it a name + username.
+      4.BotFather will give you a token
+    
+-   STEPS FOR CHAT ID :
+    1. Start a chat with your new bot (/start).
+    2. Open this URL in browser (replace TOKEN): https://api.telegram.org/bot<TOKEN>/getUpdates
+  
+------------------------------------------------------------------------
+
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the repo
