@@ -5,8 +5,8 @@ import java.nio.charset.StandardCharsets;
 
 public class TelegramNotifier {
 
-    private static final String BOT_TOKEN = "8433922487:AAEMCtP2JTcVdemncND77U_JYYO2qInlN18"; // from BotFather
-    private static final String CHAT_ID = "1396889568";    // your ID
+    private static final String BOT_TOKEN = ""; // from BotFather
+    private static final String CHAT_ID = "";    // your ID
 
     public static void sendMessage(String message) {
         try {
@@ -30,3 +30,4 @@ public class TelegramNotifier {
         }
     }
 }
+
